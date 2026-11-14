@@ -1,0 +1,11 @@
+tensorflow==2.22.0rc0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+requests
+Pillow
+jupyter
